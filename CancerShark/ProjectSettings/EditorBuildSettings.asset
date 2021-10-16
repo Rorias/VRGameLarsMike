@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/TheSharkThatGotCancer.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a712877e95aff4b4b982a70e74011bf4,
+      type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: e07e5fe53df34ed4c9d35483352a3661,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 14eec2589f6875b419b58ee2bffc1a14,
+      type: 2}
