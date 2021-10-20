@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_Scenes/Intro.unity
+    guid: 3427e4b2ec7f2dd47907c113c253163e
+  - enabled: 1
     path: Assets/_Scenes/TheSharkThatGotCancer.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
