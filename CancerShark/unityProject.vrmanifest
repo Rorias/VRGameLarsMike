@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.cancershark.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Data\\HKU\\Jaar 2\\Keuzemodule Mixed Real\\VRGameLarsMike\\CancerShark\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "CancerShark [Testing]"
+        }
+      }
+    }
+  ]
+}
