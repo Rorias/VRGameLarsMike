@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/TheSharkThatGotCancer.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/_Scenes/Cutscene1.unity
+    guid: d7ae04e5a70679f4c9da908929c61707
+  - enabled: 1
+    path: Assets/_Scenes/TheSharkThatGotCancer_Part2.unity
+    guid: 4ceff282ab7bedb4ea9f1eacb5c94c5d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a712877e95aff4b4b982a70e74011bf4,
       type: 2}
