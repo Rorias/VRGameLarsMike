@@ -18,7 +18,15 @@ public class TimedScene : MonoBehaviour
         if (sceneDuration <= 0)
         {
             sceneDuration = 999;
-            StartCoroutine(LoadNextScene());
+            
+            if (fading != null)
+            {
+                StartCoroutine(LoadNextScene());
+            }
+            else
+            {
+                SceneManager.LoadScene(nextSceneIndex);
+            }
         }
     }
 
